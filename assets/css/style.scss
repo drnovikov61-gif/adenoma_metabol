@@ -1,0 +1,9 @@
+---
+---
+
+@import "{{ site.theme }}";
+
+/* Убираем кнопку "View on GitHub" в шапке */
+.page-header .btn {
+  display: none;
+}
