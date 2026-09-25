@@ -4,7 +4,7 @@
 
 **Сергей Новиков** — врач-уролог-андролог, кандидат наук, 30 лет в клинике
 
-📺 <a href="https://youtu.be/I5zzmGGS4_4" target="_blank" rel="noopener noreferrer">YouTube</a> · [ВКонтакте](https://vkvideo.ru/video-211671933_456239340) · [RuTube](https://rutube.ru/video/c7f5457e4589d18fa5f2bf91bc5cc727/)
+📺 <a href="https://www.youtube.com/watch?v=I5zzmGGS4_4" target="_blank" rel="noopener noreferrer">YouTube</a> · <a href="https://vkvideo.ru/video-211671933_456239340" target="_blank" rel="noopener noreferrer">ВКонтакте</a> · <a href="https://rutube.ru/video/c7f5457e4589d18fa5f2bf91bc5cc727/" target="_blank" rel="noopener noreferrer">RuTube</a>
 
 ---
 
